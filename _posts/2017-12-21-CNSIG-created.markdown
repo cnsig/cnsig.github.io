@@ -7,4 +7,6 @@ categories: IGF institutional
 
 After weeks of hard work to put together a robust Bylaws document to reflect the objectives, roles and structure of the [Internet Society] Community Networks Special Interest Group, the announcement of the CNSIG creation was made during the closing session of the Internet Governance Forum 2017 in Geneva.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r3LK6tfJ9fg?start=8762" frameborder="0" gesture="media" allow="encrypted-media" allowfullscreen></iframe>
+
 [Internet Society]: https://www.internetsociety.org
