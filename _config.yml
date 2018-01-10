@@ -25,7 +25,8 @@ github_username:  cnsig
 # Build settings
 markdown: kramdown
 #theme: jekyll-theme-tactile
-remote_theme: feeling-responsive
+theme: minima
+
 plugins:
   - jekyll-feed
 
