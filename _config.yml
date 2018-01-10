@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Community Networks SIG
-#email: contact@cnsig.info
+email: contact@cnsig.info
 description: >- # this means to ignore newlines until "baseurl:"
   The Internet Society CNSIG serves as a vehicle through which Community Networks from around the world can develop, strengthen and promote the Community Network model, draft common strategies, share experiences and expertise, debate policy and regulatory issues and present their views.
 baseurl: "" # the subpath of your site, e.g. /blog
