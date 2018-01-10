@@ -9,7 +9,7 @@ The Internet Society Community Networks Special Interest Group (**CNSIG**) serve
 Executive Council
 -----------------
 
-The Executive Council is the CNSIG governing body. It is comprised of members of Community Networks and organizations whose purpose is directly related to the development of Community Networks. Council members are directly involved in the implementation and operational affairs of community networks.
+The Executive Council is the CNSIG governing body. It is comprised of members of [Community Networks and organizations] whose purpose is directly related to the development of Community Networks. Council members are directly involved in the implementation and operational affairs of community networks.
 
 Working Groups
 --------------
@@ -30,3 +30,4 @@ This WG will coordinate with the other committees and with the SIG Executive Cou
     
 This WG has the task of assessing to what extent the activities and outputs of the CNSIG are aligned to the needs of the people served by the CNs, thus ensuring that they are sufficiently inclusive. The WG will liaise directy with the other WGs as a cross cutting WG adding interdisciplinary value. This WG will also share its findings and recommendations with the Council and the greater CN community.
 
+[Community Networks and organizations]: /organizations/
