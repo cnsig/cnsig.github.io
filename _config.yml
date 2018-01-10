@@ -43,8 +43,8 @@ plugins:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://cnsig.github.io/'
-  relativeLinks: 'http://cnsig.github.io/links.jsonp'
+  siteurl: 'http://cnsig.info'
+  relativeLinks: 'http://cnsig.info/links.jsonp'
   media: 'media'
   ignore:
     - index.md
