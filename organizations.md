@@ -23,7 +23,7 @@ permalink: /organizations/
 
 [Rhizomatica]
 
-![Sarantaporo.gr logo]({{ "/assets/img/sarantaporo.gr_logo.png" | absolute_url }})
+[![Sarantaporo.gr logo]({{ "/assets/img/sarantaporo.gr_logo.png" | absolute_url }})](/orgs/Sarantaporo.gr)
 
 [Zenzeleni]
 
