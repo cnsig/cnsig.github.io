@@ -21,6 +21,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://cnsig.info" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
 github_username:  cnsig
+twitter_username: ISOC_CNSIG
 
 # Build settings
 markdown: kramdown
@@ -82,3 +83,10 @@ prose:
           element: "text"
           label: "Permalink"
           value: ""
+
+defaults:
+  - scope:
+      path: "assets/img"
+    values:
+      image: true
+

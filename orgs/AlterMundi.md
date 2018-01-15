@@ -4,6 +4,8 @@ title: AlterMundi
 menu: hidden
 ---
 
+![AlterMundi logo]({{ "/assets/img/altermundi_logo.png" | absolute_url }})
+
 [AlterMundi] is an organization that fosters the rising of a new paradigm founded on  freedom gained through peer collaboration. We explore different  manifestations of these peer-to-peer alternatives and in particular we  do a great deal of work in relation to Wireless Community Networks.
 
 We have developed a WCN model based on low-cost, multi-radio mesh nodes running our [LibreMesh](http://libremesh.org) firmware, which automatically configures the mesh network. Together with a number of organizations from around the world we are currently developing the [LibreRouter](http://librerouter.org), an open hardware project aimed at providing a reliable platform for community networks which is specificaly tailored to their needs.

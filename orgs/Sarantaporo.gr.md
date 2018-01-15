@@ -4,6 +4,8 @@ title: Sarantaporo.gr
 menu: hidden
 ---
 
+![Sarantaporo.gr logo]({{ "/assets/img/sarantaporo.gr_logo.png" | absolute_url }})
+
 [Sarantaporo.gr] is Non Profit Organization based in Athens, Greece. Its main goal is the nurturing of creative and active attitude of citizens towards citizens. The organization has the ambition and aspiration to provide better chances for social, economic and cultural development of underdeveloped areas. The organization’s goal is to provide a wide range of services in order to foster development for a sustainable living.
 
 More specifically, the objectives of “Sarantaporo.gr Non Profit Organization” include among others:

@@ -4,16 +4,16 @@ title: Organizations
 permalink: /organizations/
 ---
 
+[![AlterMundi logo]({{ "/assets/img/altermundi_logo.png" | absolute_url }})](/orgs/AlterMundi)
 
-[AlterMundi](/orgs/AlterMundi) (Argentina)
 
-[Atalaya Sur](/orgs/AtalayaSur) (Argentina)
+[![Atalaya Sur logo]({{ "/assets/img/atalayasur_logo.png" | absolute_url }})](/orgs/AtalayaSur)
 
 [Coolab] (Brazil)
 
 [Fantsuam Foundation] (Nigeria)
 
-[Gram Marg](/orgs/GramMarg) (India)
+[![Gram Marg logo]({{ "/assets/img/grammarg_logo.png" | absolute_url }})](/orgs/GramMarg)
 
 [NetHood] (Greece)
 
@@ -23,6 +23,7 @@ permalink: /organizations/
 
 [Rhizomatica] (Mexico)
 
+![Sarantaporo.gr logo]({{ "/assets/img/sarantaporo.gr_logo.png" | absolute_url }})
 [Sarantaporo.gr](/orgs/Sarantaporo.gr) (Greece)
 
 [Zenzeleni] (South Africa)

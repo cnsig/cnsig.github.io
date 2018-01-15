@@ -4,6 +4,8 @@ title: Atalaya Sur
 menu: hidden
 ---
 
+[![Atalaya Sur logo]({{ "/assets/img/atalayasur_logo.png" | absolute_url }})](/orgs/AtalayaSur)
+
 [Atalaya Sur] is a project which mission is to bring technology to the historically most neglected people of Argentina.
 
 In this way, [Atalaya Sur] acts as a fundamental tool for social inclusion, access to knowledge and  knowledge production.
