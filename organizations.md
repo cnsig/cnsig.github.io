@@ -9,24 +9,23 @@ permalink: /organizations/
 
 [![Atalaya Sur logo]({{ "/assets/img/atalayasur_logo.png" | absolute_url }})](/orgs/AtalayaSur)
 
-[Coolab] (Brazil)
+[Coolab]
 
-[Fantsuam Foundation] (Nigeria)
+[Fantsuam Foundation]
 
 [![Gram Marg logo]({{ "/assets/img/grammarg_logo.png" | absolute_url }})](/orgs/GramMarg)
 
-[NetHood] (Greece)
+[NetHood]
 
-[Ninux] (Italy)
+[Ninux]
 
-[TIC AC] (Mexico)
+[TIC AC]
 
-[Rhizomatica] (Mexico)
+[Rhizomatica]
 
 ![Sarantaporo.gr logo]({{ "/assets/img/sarantaporo.gr_logo.png" | absolute_url }})
-[Sarantaporo.gr](/orgs/Sarantaporo.gr) (Greece)
 
-[Zenzeleni] (South Africa)
+[Zenzeleni]
 
 [Coolab]: http://www.coolab.org/
 [Fantsuam Foundation]: http://www.fantsuam.org/
