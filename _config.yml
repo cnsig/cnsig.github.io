@@ -27,6 +27,10 @@ markdown: kramdown
 #theme: jekyll-theme-tactile
 theme: minima
 
+header_pages:
+ - about.md
+ - organizations.md
+
 plugins:
   - jekyll-feed
 

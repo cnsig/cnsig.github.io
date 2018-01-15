@@ -5,15 +5,15 @@ permalink: /organizations/
 ---
 
 
-[AlterMundi] (Argentina)
+[AlterMundi](/orgs/AlterMundi) (Argentina)
 
-[Atalaya Sur] (Argentina)
+[Atalaya Sur](/orgs/AtalayaSur) (Argentina)
 
 [Coolab] (Brazil)
 
 [Fantsuam Foundation] (Nigeria)
 
-[Gram Marg] (India)
+[Gram Marg](/orgs/GramMarg) (India)
 
 [NetHood] (Greece)
 
@@ -23,12 +23,10 @@ permalink: /organizations/
 
 [Rhizomatica] (Mexico)
 
-[Sarantaporo] (Greece)
+[Sarantaporo.gr](/orgs/Sarantaporo.gr) (Greece)
 
 [Zenzeleni] (South Africa)
 
-[AlterMundi]: http://altermundi.net/
-[Atalaya Sur]: http://www.proyectocomunidad.com/atalaya-sur
 [Coolab]: http://www.coolab.org/
 [Fantsuam Foundation]: http://www.fantsuam.org/
 [Gram Marg]: http://grammarg.in/
@@ -36,5 +34,4 @@ permalink: /organizations/
 [Ninux]: http://ninux.org/
 [TIC AC]: https://www.tic-ac.org/
 [Rhizomatica]: http://rhizomatica.org/
-[Sarantaporo]: http://www.sarantaporo.gr/
 [Zenzeleni]: http://zenzeleni.net/
