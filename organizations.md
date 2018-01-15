@@ -2,36 +2,21 @@
 layout: page
 title: Organizations
 permalink: /organizations/
+style: |
+  .post img {
+    padding-right: 45pt;
+    padding-bottom: 20pt;
+  }
 ---
 
 [![AlterMundi logo]({{ "/assets/img/altermundi_logo.png" | absolute_url }})](/orgs/AlterMundi)
-
-
 [![Atalaya Sur logo]({{ "/assets/img/atalayasur_logo.png" | absolute_url }})](/orgs/AtalayaSur)
-
-[Coolab]
-
-[Fantsuam Foundation]
-
+[![Coolab logo]({{ "/assets/img/coolab_logo.png" | absolute_url }})](http://www.coolab.org/)
+[![Fantsuam logo]({{ "/assets/img/fantsuam_logo.png" | absolute_url }})](http://www.fantsuam.org/)
 [![Gram Marg logo]({{ "/assets/img/grammarg_logo.png" | absolute_url }})](/orgs/GramMarg)
-
-[NetHood]
-
-[Ninux]
-
-[TIC AC]
-
-[Rhizomatica]
-
+[![NetHood logo]({{ "/assets/img/nethood_logo.png" | absolute_url }})](http://nethood.org/)
+[![Ninux logo]({{ "/assets/img/ninux_logo.png" | absolute_url }})](http://ninux.org/)
+[![TIC AC logo]({{ "/assets/img/ticac_logo.jpg" | absolute_url }})](http://www.tic-ac.org/)
+[![Rhizomatica logo]({{ "/assets/img/rhizomatica_logo.png" | absolute_url }})](http://www.rhizomatica.org/)
 [![Sarantaporo.gr logo]({{ "/assets/img/sarantaporo.gr_logo.png" | absolute_url }})](/orgs/Sarantaporo.gr)
-
-[Zenzeleni]
-
-[Coolab]: http://www.coolab.org/
-[Fantsuam Foundation]: http://www.fantsuam.org/
-[Gram Marg]: http://grammarg.in/
-[NetHood]: http://nethood.org/
-[Ninux]: http://ninux.org/
-[TIC AC]: https://www.tic-ac.org/
-[Rhizomatica]: http://rhizomatica.org/
-[Zenzeleni]: http://zenzeleni.net/
+[![Zenzeleni logo]({{ "/assets/img/zenzeleni_isologo.png" | absolute_url }})](http://www.zenzeleni.net/)
