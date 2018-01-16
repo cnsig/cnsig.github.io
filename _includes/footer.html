@@ -2,14 +2,16 @@
 
   <div class="wrapper">
 
-    <h2 class="footer-heading">{{ site.title | escape }}</h2>
-
+    <h2 class="footer-heading">Internet Society <br> Community Networks SIG</h2>
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
+        {{ site.description | escape }}
+      </div>
+      <div class="footer-col footer-col-2">
+      </div>
+
+      <div class="footer-col footer-col-3">
         <ul class="contact-list">
-          <li>
-            Keep in touch
-            </li>
             {% if site.email %}
             <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {% endif %}
@@ -28,12 +30,6 @@
           {% endif %}
         </ul>
       </div>
-
-      <div class="footer-col footer-col-2">
-        <p>{{ site.description | escape }}</p>
-      </div>
-    </div>
-
   </div>
 
 </footer>

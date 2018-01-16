@@ -7,6 +7,7 @@
   background-color: #0c1c2c;
   color: white;
 }
+
 .site-nav{
   background-color: #0c1c2c;
 }
@@ -25,9 +26,58 @@
   color: #b2b2b2;
 }
 
+//.footer-col {
+//    color: #d2d2d2;
+//    float: left;
+//    width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+//    width:         calc(100% - (#{$spacing-unit} / 2));
+//}
+
+
 .footer-col {
+  float: left;
+  margin-bottom: $spacing-unit / 2;
+  padding-left: $spacing-unit / 2;
+}
+
+.site-footer a:hover {
+    color: white;
+    text-decoration: none;
+}
+
+.footer-col-1 {
+  width: -webkit-calc(55% - (#{$spacing-unit} / 2));
+  width:         calc(55% - (#{$spacing-unit} / 2));
+}
+
+.footer-col-2 {
+  width: -webkit-calc(20% - (#{$spacing-unit} / 2));
+  width:         calc(20% - (#{$spacing-unit} / 2));
+}
+
+.footer-col-3 {
+  width: -webkit-calc(25% - (#{$spacing-unit} / 2));
+  width:         calc(25% - (#{$spacing-unit} / 2));
+}
+
+@include media-query($on-laptop) {
+  .footer-col-1,
+  .footer-col-2 {
+    width: -webkit-calc(50% - (#{$spacing-unit} / 2));
+    width:         calc(50% - (#{$spacing-unit} / 2));
+  }
+
+  .footer-col-3 {
+    width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+    width:         calc(100% - (#{$spacing-unit} / 2));
+  }
+}
+
+@include media-query($on-palm) {
+  .footer-col {
     float: none;
     width: -webkit-calc(100% - (#{$spacing-unit} / 2));
     width:         calc(100% - (#{$spacing-unit} / 2));
+  }
 }
 
