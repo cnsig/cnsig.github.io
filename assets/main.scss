@@ -3,10 +3,18 @@
 
 @import "{{ site.theme }}";
 
+.site-nav{
+  background-color: #727272;
+}
+
 .site-footer {
 //  border-top: 1px solid $grey-color-light;
 //  padding: $spacing-unit 0;
   background-image: url('/assets/img/header-isoc.png');
+}
+
+.footer-heading {
+  color: #d2d2d2;
 }
 
 .footer-col-wrapper {
