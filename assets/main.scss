@@ -3,8 +3,12 @@
 
 @import "{{ site.theme }}";
 
+.site-header {
+  background-color: #0c1c2c;
+  color: white;
+}
 .site-nav{
-  background-color: #727272;
+  background-color: #0c1c2c;
 }
 
 .site-footer {
@@ -21,13 +25,9 @@
   color: #b2b2b2;
 }
 
-.footer-col-1 {
-  width: -webkit-calc(35% - (#{$spacing-unit} / 2));
-  width:         calc(35% - (#{$spacing-unit} / 2));
-}
-
-.footer-col-2 {
-  width: -webkit-calc(65% - (#{$spacing-unit} / 2));
-  width:         calc(65% - (#{$spacing-unit} / 2));
+.footer-col {
+    float: none;
+    width: -webkit-calc(100% - (#{$spacing-unit} / 2));
+    width:         calc(100% - (#{$spacing-unit} / 2));
 }
 
