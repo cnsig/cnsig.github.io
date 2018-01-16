@@ -13,8 +13,9 @@
       <div class="footer-col footer-col-3">
         <ul class="contact-list">
             {% if site.email %}
-            <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
+            <li>. <a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
             {% endif %}
+            <li>. <a href="/feed.xml">news via RSS</a></li>
         </ul>
         <ul class="social-media-list">
           {% if site.github_username %}

@@ -4,8 +4,11 @@ title: Organizations
 permalink: /organizations/
 style: |
   .post img {
-    padding-right: 11pt;
-    padding-bottom: 20pt;
+    background-color: white;
+    margin-right: 7pt;
+    margin-bottom: 20pt;
+    padding: 2pt;
+    border-radius: 8px;
   }
 ---
 

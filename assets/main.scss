@@ -12,9 +12,17 @@
   background-color: #0c1c2c;
 }
 
+.page-content {
+  background-color: #e9e6df;
+  padding: 0;
+}
+
+.page-content .wrapper {
+  background-color: #efede8;
+  padding: 20px;
+}
+
 .site-footer {
-//  border-top: 1px solid $grey-color-light;
-//  padding: $spacing-unit 0;
   background-image: url('/assets/img/header-isoc.png');
 }
 
@@ -25,14 +33,6 @@
 .footer-col-wrapper {
   color: #b2b2b2;
 }
-
-//.footer-col {
-//    color: #d2d2d2;
-//    float: left;
-//    width: -webkit-calc(100% - (#{$spacing-unit} / 2));
-//    width:         calc(100% - (#{$spacing-unit} / 2));
-//}
-
 
 .footer-col {
   float: left;
@@ -80,4 +80,24 @@
     width:         calc(100% - (#{$spacing-unit} / 2));
   }
 }
+
+.post-title {
+  @include relative-font-size(2.1);
+  letter-spacing: -1px;
+  line-height: 1;
+
+  @include media-query($on-laptop) {
+    @include relative-font-size(1.9);
+  }
+}
+
+.post-content h2 {
+    @include relative-font-size(1.75);
+
+    @include media-query($on-laptop) {
+      @include relative-font-size(1.55);
+    }
+}
+
+
 
