@@ -1,0 +1,25 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+.site-footer {
+//  border-top: 1px solid $grey-color-light;
+//  padding: $spacing-unit 0;
+  background-image: url('/assets/img/header-isoc.png');
+}
+
+.footer-col-wrapper {
+  color: #b2b2b2;
+}
+
+.footer-col-1 {
+  width: -webkit-calc(35% - (#{$spacing-unit} / 2));
+  width:         calc(35% - (#{$spacing-unit} / 2));
+}
+
+.footer-col-2 {
+  width: -webkit-calc(65% - (#{$spacing-unit} / 2));
+  width:         calc(65% - (#{$spacing-unit} / 2));
+}
+
