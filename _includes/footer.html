@@ -1,8 +1,10 @@
-<footer class="site-footer">
+<footer class="site-footer h-card">
+
 
   <div class="wrapper">
 
     <h2 class="footer-heading">Internet Society <br> Community Networks SIG</h2>
+ 
     <div class="footer-col-wrapper">
       <div class="footer-col footer-col-1">
         {{ site.description | escape }}
@@ -17,20 +19,8 @@
             {% endif %}
             <li>. <a href="/feed.xml">news via RSS</a></li>
         </ul>
-        <ul class="social-media-list">
-          {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-
-          {% if site.twitter_username %}
-          <li>
-            {% include icon-twitter.html username=site.twitter_username %}
-          </li>
-          {% endif %}
-        </ul>
+        {%- include social.html -%}
       </div>
-  </div>
+    </div>
 
 </footer>
