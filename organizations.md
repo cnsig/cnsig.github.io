@@ -18,6 +18,7 @@ style: |
 [![Guifi logo]({{ "/assets/img/guifi_logo.png" | absolute_url }})](http://www.guifi.net/)
 [![NetHood logo]({{ "/assets/img/nethood_logo.png" | absolute_url }})](http://nethood.org/)
 [![Ninux logo]({{ "/assets/img/ninux_logo.png" | absolute_url }})](http://ninux.org/)
+[![PeoplesOpen logo]({{ "/assets/img/peoplesopen_logo.png" | absolute_url }})](https://peoplesopen.net/)
 [![TIC AC logo]({{ "/assets/img/ticac_logo.jpg" | absolute_url }})](http://www.tic-ac.org/)
 [![Rhizomatica logo]({{ "/assets/img/rhizomatica_logo.png" | absolute_url }})](http://www.rhizomatica.org/)
 [![Sarantaporo.gr logo]({{ "/assets/img/sarantaporo.gr_logo.png" | absolute_url }})](/orgs/Sarantaporo.gr)
