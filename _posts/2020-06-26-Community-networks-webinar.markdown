@@ -12,9 +12,7 @@ published: true
 
 Presentation and debate between representatives of community networks and organizations promoting community networks.  
 
-Date: Tuesday, July 28, 2020  
-
-Time: 11:00 a.m. to 1:00 p.m. UTC  
+Date: T.B.A., mid-August
 
 Topics:  
 
@@ -36,9 +34,7 @@ Reunión virtual de Redes Comunitarias
 
 Presentación y debate entre representantes de redes comunitarias y organizaciones promotoras de redes comunitarias.  
 
-Fecha: martes 28 de Julio, 2020  
-
-Hora: 11:00am a 13:00 p.m. UTC  
+Fecha: Mediados de agosto
 
 Temas a tratar:  
 
