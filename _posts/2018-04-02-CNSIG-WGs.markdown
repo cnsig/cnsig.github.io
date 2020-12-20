@@ -1,0 +1,9 @@
+---
+layout: post
+title: CNSIG - Introduction to the working groups
+date: '2018-04-02 14:31:19 -0300'
+categories: CNSIG WGs
+published: false
+---
+
+Four working groups have been created: https://pad.codigosur.org/CNSIG_WGs
